@@ -1,0 +1,402 @@
+#zh_CN
+#This is the Main language configuration file
+#
+#If you want to color code the text then I recommend you visit http://www.minecraftwiki.net/wiki/Formatting_codes#Color_codes
+#To create the � symbol which is used for assigning a color to the following text press Alt + 21 on Windows. For other OSes, view the above link.
+#This file needs to be UTF-8 encoded to work with MC 1.7+
+
+#==========
+#= Blocks =
+#==========
+//Tallow Candles
+tile.blockTallowCandle.name=羊油蜡烛
+tile.blockTallowCandleOff.name=Extinguished Tallow Candle
+//Road
+tile.blockRoadIgEx.Andesite.name=安山岩道路石
+tile.blockRoadIgEx.Basalt.name=玄武岩道路石
+tile.blockRoadSed.Chalk.name=白垩岩道路石
+tile.blockRoadSed.Chert.name=燧石道路石
+tile.blockRoadSed.Claystone.name=粘土岩道路石
+tile.blockRoadSed.Conglomerate.name=砾岩道路石
+tile.blockRoadIgEx.Dacite.name=英安岩道路石
+tile.blockRoadIgIn.Diorite.name=闪长岩道路石
+tile.blockRoadSed.Dolomite.name=白云岩道路石
+tile.blockRoadIgIn.Gabbro.name=辉长岩道路石
+tile.blockRoadMM.Gneiss.name=片麻岩道路石
+tile.blockRoadIgIn.Granite.name=花岗岩道路石
+tile.blockRoadSed.Limestone.name=石灰岩道路石
+tile.blockRoadMM.Marble.name=大理石道路石
+tile.blockRoadMM.Phyllite.name=千枚岩道路石
+tile.blockRoadMM.Quartzite.name=石英岩道路石
+tile.blockRoadIgEx.Rhyolite.name=流纹岩道路石
+tile.blockRoadSed.Rock Salt.name=岩盐道路石
+tile.blockRoadMM.Schist.name=片岩道路石
+tile.blockRoadSed.Shale.name=页岩道路石
+tile.blockRoadMM.Slate.name=板岩道路石
+//Other Things
+tile.blockFruitPress.name=Fruit Press
+
+#=========
+#= Items = 
+#=========
+//Basic Items
+item.CasingBrass.name=Brass Casing
+item.CasingIron.name=Wrought Iron Casing
+item.CasingRoseGold.name=Rose Gold Casing
+item.Gear.name=齿轮
+item.CaseinGlue.name=酪素胶
+item.PistonBase.name=活塞基座
+item.Circuit.name=Crude Circuit
+item.DeerTendon.name=鹿筋
+item.SinewFiber.name=肌腱纤维
+item.SinewString.name=肌腱线
+item.SinewBowString.name=肌腱弓弦
+item.BowLimb.name=弓肢体
+item.Suet.name=羊油
+item.BowlSuet.name=Bowl of Suet
+item.BowlTallow.0.name=Bowl of Tallow
+item.BowlTallow.1.name=Bowl of Tallow
+item.BowlTallow.2.name=Bowl of Tallow
+item.BrownDye.name=棕色染料
+item.IronDust.name=磁铁矿粉末
+item.BottleFruitJuice.name=Fruit Juice
+item.BottleFruitWine.name=Fruit Wine
+item.BottleSugar.name=Sugar in a Bottle
+item.BottleJuiceApple.name=Apple Juice
+item.BottleJuiceOrange.name=Orange Juice
+item.BottleJuiceLemon.name=Lemon Juice
+item.BottleLemonade.name=Lemonade
+item.BottleSoyMilk.name=Soy Milk
+item.SoyPaste.name=Soybean Paste
+item.BucketHotWater.name=Wooden Bucket (Hot Water)
+//Bows and Such
+item.LongBow.name=长弓
+item.CrossBow.name=弩弓
+//Tallow Candle Dyes
+item.TallowDye.Black.name=Dyed Tallow (Black)
+item.TallowDye.Red.name=Dyed Tallow (Red)
+item.TallowDye.Green.name=Dyed Tallow (Green)
+item.TallowDye.Brown.name=Dyed Tallow (Brown)
+item.TallowDye.Blue.name=Dyed Tallow (Blue)
+item.TallowDye.Purple.name=Dyed Tallow (Purple)
+item.TallowDye.Cyan.name=Dyed Tallow (Cyan)
+item.TallowDye.LightGray.name=Dyed Tallow (LightGray)
+item.TallowDye.Gray.name=Dyed Tallow (Gray)
+item.TallowDye.Pink.name=Dyed Tallow (Pink)
+item.TallowDye.Lime.name=Dyed Tallow (Lime)
+item.TallowDye.Yellow.name=Dyed Tallow (Yellow)
+item.TallowDye.LightBlue.name=Dyed Tallow (LightBlue)
+item.TallowDye.Magenta.name=Dyed Tallow (Magenta)
+item.TallowDye.Orange.name=Dyed Tallow (Orange)
+
+//Bolts
+item.Bolt_BismuthBronze.name=Bismuth Bronze Bolt
+item.Bolt_BlackBronze.name=Black Bronze Bolt
+item.Bolt_BlackSteel.name=Black Steel Bolt
+item.Bolt_BlueSteel.name=Blue Steel Bolt
+item.Bolt_Bronze.name=Bronze Bolt
+item.Bolt_Copper.name=Copper Bolt
+item.Bolt_RedSteel.name=Red Steel Bolt
+item.Bolt_Steel.name=Steel Bolt
+item.Bolt_WroughtIron.name=Wrought Iron Bolt
+
+//Bolt Heads
+item.Bolt_BismuthBronze_Head.name=Bismuth Bronze Bolt Head
+item.Bolt_BlackBronze_Head.name=Black Bronze Bolt Head
+item.Bolt_BlackSteel_Head.name=Black Steel Bolt Head
+item.Bolt_BlueSteel_Head.name=Blue Steel Bolt Head
+item.Bolt_Bronze_Head.name=Bronze Bolt Head
+item.Bolt_Copper_Head.name=Copper Bolt Head
+item.Bolt_RedSteel_Head.name=Red Steel Bolt Head
+item.Bolt_Steel_Head.name=Steel Bolt Head
+item.Bolt_WroughtIron_Head.name=Wrought Iron Bolt Head
+
+//Arrows
+item.Arrow_BismuthBronze.name=Bismuth Bronze Arrow
+item.Arrow_BlackBronze.name=Black Bronze Arrow
+item.Arrow_BlackSteel.name=Black Steel Arrow
+item.Arrow_BlueSteel.name=Blue Steel Arrow
+item.Arrow_Bronze.name=Bronze Arrow
+item.Arrow_Copper.name=Copper Arrow
+item.Arrow_RedSteel.name=Red Steel Arrow
+item.Arrow_Steel.name=Steel Arrow
+item.Arrow_WroughtIron.name=Wrought Iron Arrow
+
+//Arrow Heads
+item.Arrow_BismuthBronze_Head.name=Bismuth Bronze Arrow Head
+item.Arrow_BlackBronze_Head.name=Black Bronze Arrow Head
+item.Arrow_BlackSteel_Head.name=Black Steel Arrow Head
+item.Arrow_BlueSteel_Head.name=Blue Steel Arrow Head
+item.Arrow_Bronze_Head.name=Bronze Arrow Head
+item.Arrow_Copper_Head.name=Copper Arrow Head
+item.Arrow_RedSteel_Head.name=Red Steel Arrow Head
+item.Arrow_Steel_Head.name=Steel Arrow Head
+item.Arrow_WroughtIron_Head.name=Wrought Iron Arrow Head
+
+//Halberds
+item.Halberd_BismuthBronze.name=铋青铜戟
+item.Halberd_BlackBronze.name=黑青铜戟
+item.Halberd_BlackSteel.name=黑钢戟
+item.Halberd_BlueSteel.name=蓝钢戟
+item.Halberd_Bronze.name=青铜戟
+item.Halberd_Copper.name=铜戟
+item.Halberd_RedSteel.name=红钢戟
+item.Halberd_Steel.name=钢戟
+item.Halberd_WroughtIron.name=熟铁戟
+
+//Halberd Tool Heads
+item.Halberd_BismuthBronze_Head.name=铋青铜戟头
+item.Halberd_BlackBronze_Head.name=黑色青铜戟头
+item.Halberd_BlackSteel_Head.name=黑钢戟头
+item.Halberd_BlueSteel_Head.name=蓝钢戟头
+item.Halberd_Bronze_Head.name=青铜戟头
+item.Halberd_Copper_Head.name=铜戟头
+item.Halberd_RedSteel_Head.name=红钢戟头
+item.Halberd_Steel_Head.name=钢戟头
+item.Halberd_WroughtIron_Head.name=熟铁戟头
+
+//War Hammers
+item.WarHammer_BismuthBronze.name=铋青铜战鎚
+item.WarHammer_BlackBronze.name=黑青铜战鎚
+item.WarHammer_BlackSteel.name=黑钢战鎚
+item.WarHammer_BlueSteel.name=蓝钢战鎚
+item.WarHammer_Bronze.name=青铜战鎚
+item.WarHammer_Copper.name=铜战鎚
+item.WarHammer_RedSteel.name=红钢战鎚
+item.WarHammer_Steel.name=钢战鎚
+item.WarHammer_WroughtIron.name=熟铁战鎚
+
+//War Hammer Heads
+item.WarHammer_BismuthBronze_Head.name=铋青铜战鎚头
+item.WarHammer_BlackBronze_Head.name=黑色青铜战鎚头
+item.WarHammer_BlackSteel_Head.name=黑钢战鎚头
+item.WarHammer_BlueSteel_Head.name=蓝钢战鎚头
+item.WarHammer_Bronze_Head.name=青铜战鎚头
+item.WarHammer_Copper_Head.name=铜战鎚头
+item.WarHammer_RedSteel_Head.name=红钢战鎚头
+item.WarHammer_Steel_Head.name=钢战鎚头
+item.WarHammer_WroughtIron_Head.name=熟铁战鎚头
+
+//Poniards
+item.Poniard_BismuthBronze.name=铋青铜短剑
+item.Poniard_BlackBronze.name=黑青铜短剑
+item.Poniard_BlackSteel.name=黑钢匕首
+item.Poniard_BlueSteel.name=蓝钢匕首
+item.Poniard_Bronze.name=青铜短剑
+item.Poniard_Copper.name=铜匕首
+item.Poniard_RedSteel.name=红钢匕首
+item.Poniard_Steel.name=钢匕首
+item.Poniard_WroughtIron.name=熟铁匕首
+
+//Poniard Blades
+item.Poniard_BismuthBronze_Head.name=铋青铜匕首刃
+item.Poniard_BlackBronze_Head.name=黑青铜匕首刃
+item.Poniard_BlackSteel_Head.name=黑钢匕首刃
+item.Poniard_BlueSteel_Head.name=蓝钢匕首刃
+item.Poniard_Bronze_Head.name=青铜匕首刃
+item.Poniard_Copper_Head.name=铜匕首刃
+item.Poniard_RedSteel_Head.name=红钢匕首刃
+item.Poniard_Steel_Head.name=钢匕首刃
+item.Poniard_WroughtIron_Head.name=熟铁匕首刃
+
+//Pottery Molds
+item.itemHalberd_Mold.Clay_Mold_Halberd.name=黏土戟模具
+item.itemHalberd_Mold.Ceramic_Mold_Halberd.name=戟模具
+item.itemHalberd_Mold.Ceramic_Mold_Halberd_Copper.name=戟模具(铜)
+item.itemHalberd_Mold.Ceramic_Mold_Halberd_Bronze.name=戟模具(青铜)
+item.itemHalberd_Mold.Ceramic_Mold_Halberd_BlackBronze.name=戟模具(黑青铜)
+item.itemHalberd_Mold.Ceramic_Mold_Halberd_BismuthBronze.name=戟模具(铋青铜)
+
+item.itemWarHammer_Mold.Clay_Mold_WarHammer.name=黏土战鎚模具
+item.itemWarHammer_Mold.Ceramic_Mold_WarHammer.name=战鎚模具
+item.itemWarHammer_Mold.Ceramic_Mold_WarHammer_Copper.name=战鎚模具(铜)
+item.itemWarHammer_Mold.Ceramic_Mold_WarHammer_Bronze.name=战鎚模具(青铜)
+item.itemWarHammer_Mold.Ceramic_Mold_WarHammer_BlackBronze.name=战鎚模具(黑青铜)
+item.itemWarHammer_Mold.Ceramic_Mold_WarHammer_BismuthBronze.name=战鎚模具(铋青铜)
+
+item.itemPoniard_Mold.Clay_Mold_Poniard.name=黏土匕首模具
+item.itemPoniard_Mold.Ceramic_Mold_Poniard.name=匕首模具
+item.itemPoniard_Mold.Ceramic_Mold_Poniard_Copper.name=匕首模具(铜)
+item.itemPoniard_Mold.Ceramic_Mold_Poniard_Bronze.name=匕首模具(青铜)
+item.itemPoniard_Mold.Ceramic_Mold_Poniard_BlackBronze.name=匕首模具(黑青铜)
+item.itemPoniard_Mold.Ceramic_Mold_Poniard_BismuthBronze.name=匕首模具(铋青铜)
+
+item.itemBolt_Mold.Clay_Mold_Bolt.name=Clay Bolt Mold
+item.itemBolt_Mold.Ceramic_Mold_Bolt.name=Bolt Mold
+item.itemBolt_Mold.Ceramic_Mold_Bolt_Copper.name=Bolt Mold (Copper)
+item.itemBolt_Mold.Ceramic_Mold_Bolt_Bronze.name=Bolt Mold (Bronze)
+item.itemBolt_Mold.Ceramic_Mold_Bolt_BlackBronze.name=Bolt Mold (Black Bronze)
+item.itemBolt_Mold.Ceramic_Mold_Bolt_BismuthBronze.name=Bolt Mold (Bismuth Bronze)
+
+item.itemArrow_Mold.Clay_Mold_Arrow.name=Clay Arrow Mold
+item.itemArrow_Mold.Ceramic_Mold_Arrow.name=Arrow Mold
+item.itemArrow_Mold.Ceramic_Mold_Arrow_Copper.name=Arrow Mold (Copper)
+item.itemArrow_Mold.Ceramic_Mold_Arrow_Bronze.name=Arrow Mold (Bronze)
+item.itemArrow_Mold.Ceramic_Mold_Arrow_BlackBronze.name=Arrow Mold (Black Bronze)
+item.itemArrow_Mold.Ceramic_Mold_Arrow_BismuthBronze.name=Arrow Mold (Bismuth Bronze)
+
+//Armor
+item.Coil_BismuthBronze.name=Bismuth Bronze Coil
+item.Coil_BlackBronze.name=Black Bronze Coil
+item.Coil_BlackSteel.name=Black Steel Coil
+item.Coil_BlueSteel.name=Blue Steel Coil
+item.Coil_Bronze.name=Bronze Coil
+item.Coil_Copper.name=Copper Coil
+item.Coil_WroughtIron.name=Wrought Iron Coil
+item.Coil_RedSteel.name=Red Steel Coil
+item.Coil_Steel.name=Steel Coil
+
+item.Link_BismuthBronze.name=Bismuth Bronze Link
+item.Link_BlackBronze.name=Black Bronze Link
+item.Link_BlackSteel.name=Black Steel Link
+item.Link_BlueSteel.name=Blue Steel Link
+item.Link_Bronze.name=Bronze Link
+item.Link_Copper.name=Copper Link
+item.Link_WroughtIron.name=Wrought Iron Link
+item.Link_RedSteel.name=Red Steel Link
+item.Link_Steel.name=Steel Link
+
+item.Chain_Square_BismuthBronze.name=Bismuth Bronze Chain Square
+item.Chain_Square_BlackBronze.name=Black Bronze Chain Square
+item.Chain_Square_BlackSteel.name=Black Steel Chain Square
+item.Chain_Square_BlueSteel.name=Blue Steel Chain Square
+item.Chain_Square_Bronze.name=Bronze Chain Square
+item.Chain_Square_Copper.name=Copper Chain Square
+item.Chain_Square_WroughtIron.name=Wrought Iron Chain Square
+item.Chain_Square_RedSteel.name=Red Steel Chain Square
+item.Chain_Square_Steel.name=Steel Chain Square
+
+item.Chain_Sheet_BismuthBronze.name=Bismuth Bronze Chain Sheet
+item.Chain_Sheet_BlackBronze.name=Black Bronze Chain Sheet
+item.Chain_Sheet_BlackSteel.name=Black Steel Chain Sheet
+item.Chain_Sheet_BlueSteel.name=Blue Steel Chain Sheet
+item.Chain_Sheet_Bronze.name=Bronze Chain Sheet
+item.Chain_Sheet_Copper.name=Copper Chain Sheet
+item.Chain_Sheet_WroughtIron.name=Wrought Iron Chain Sheet
+item.Chain_Sheet_RedSteel.name=Red Steel Chain Sheet
+item.Chain_Sheet_Steel.name=Steel Chain Sheet
+
+item.BismuthBronze_Chain_Greaves.name=铋青铜链甲护腿
+item.BlackBronze_Chain_Greaves.name=黑青铜链甲护腿
+item.BlackSteel_Chain_Greaves.name=黑钢链甲护腿
+item.BlueSteel_Chain_Greaves.name=蓝钢链甲护腿
+item.Bronze_Chain_Greaves.name=青铜链甲护腿
+item.Copper_Chain_Greaves.name=铜链甲护腿
+item.WroughtIron_Chain_Greaves.name=熟铁链甲护腿
+item.RedSteel_Chain_Greaves.name=红钢链甲护腿
+item.Steel_Chain_Greaves.name=钢链甲护腿
+
+item.BismuthBronze_Chain_Chestplate.name=铋青铜链甲护胸
+item.BlackBronze_Chain_Chestplate.name=黑青铜链甲护胸
+item.BlackSteel_Chain_Chestplate.name=黑钢链甲护胸
+item.BlueSteel_Chain_Chestplate.name=蓝钢链甲护胸
+item.Bronze_Chain_Chestplate.name=青铜链甲护胸
+item.Copper_Chain_Chestplate.name=铜链甲护胸
+item.WroughtIron_Chain_Chestplate.name=熟铁链甲护胸
+item.RedSteel_Chain_Chestplate.name=红钢链甲护胸
+item.Steel_Chain_Chestplate.name=钢链甲护胸
+
+item.BismuthBronze_Chain_Helmet.name=铋青铜锁链兜帽
+item.BlackBronze_Chain_Helmet.name=黑青铜锁链兜帽
+item.BlackSteel_Chain_Helmet.name=黑钢锁链兜帽
+item.BlueSteel_Chain_Helmet.name=蓝钢锁链兜帽
+item.Bronze_Chain_Helmet.name=青铜锁链兜帽
+item.Copper_Chain_Helmet.name=铜锁链兜帽
+item.WroughtIron_Chain_Helmet.name=铁锁链兜帽
+item.RedSteel_Chain_Helmet.name=红钢锁链兜帽
+item.Steel_Chain_Helmet.name=钢锁链兜帽
+
+#=======
+#= GUI =
+#=======
+//Anvil Plans
+gui.plans.casing=外壳
+gui.plans.clockgear=时钟齿轮
+gui.plans.coil=线圈
+gui.plans.link=Link
+gui.plans.pistonhead=活塞头
+gui.plans.pistonshaft=活塞轴
+gui.plans.circuit=Circuit
+gui.plans.halberd=戟头
+gui.plans.warhammer=战鎚头
+gui.plans.poniard=匕首刃
+gui.plans.bolt=Bolt Head
+gui.plans.arrow=Arrow Head
+
+#===========
+#= Fluids =
+#===========
+
+fluid.fruitjuice=Fruit Juice
+fluid.fruitwine=Fruit Wine
+fluid.juiceapple=Apple Juice
+fluid.juiceorange=Orange Juice
+fluid.juicelemon=Lemon Juice
+fluid.lemonade=Lemonade
+fluid.soymilk=Soy Milk
+fluid.waterhot=Hot Water
+
+#=================
+#= Achievements =
+#=================
+
+achievement.HalberdAchievement=You got a halBEARD!
+achievement.HalberdAchievement.desc=Craft a Halberd.
+achievement.WarHammerAchievement=Smashin' Skulls!
+achievement.WarHammerAchievement.desc=Craft a War Hammer.
+achievement.PoniardAchievement=You're an assassin Ezio!
+achievement.PoniardAchievement.desc=Craft a poniard.
+
+achievement.SinewAchievement=Ewww Stringy!
+achievement.SinewAchievement.desc=Harvest Sinew from a deer, horse, or something else with legs.
+achievement.LongbowAchievement=I wouldn't flee, I'd shoot.
+achievement.LongbowAchievement.desc=Craft a Longbow.
+achievement.CrossbowAchievement=Watch your mouth, Sunshine.
+achievement.CrossbowAchievement.desc=Craft a Crossbow.
+
+achievement.ChainArmorAchievement=Chained Up!
+achievement.ChainArmorAchievement.desc=Craft a piece of chain armor.
+
+achievement.SuetAchievement=It jiggles!
+achievement.SuetAchievement.desc=Harvest suet from a sheep, bear, or cow.
+achievement.CandleAchievement=Waxy!
+achievement.CandleAchievement.desc=Craft a tallow candle.
+
+achievement.RedstoneTileAchievement=Wired!
+achievement.RedstoneTileAchievement.desc=Craft a redstone repeator or comparator using a crude circuit.
+achievement.PistonAchievement=Move it! Move it!
+achievement.PistonAchievement.desc=Craft a piston.
+
+achievement.FruitPressAchievement=Stomp your feet!
+achievement.FruitPressAchievement.desc=Craft a fruit press.
+achievement.WineAchievement=Happy Kitty, Sleepy Kitty, Drunk Kitty
+achievement.WineAchievement.desc=Drink fruit wine.
+achievement.achSugar=Sugar, Sugar!
+achievement.achSugar.desc=Get the sugar out of a bottle.
+achievement.achJuiceOrange=Bright and Early!
+achievement.achJuiceOrange.desc=Drink orange juice.
+achievement.achJuiceLemon=Lemon Head!
+achievement.achJuiceLemon.desc=Drink lemon juice.
+achievement.achLemonade=A Summer Day!
+achievement.achLemonade.desc=Drink lemonade.
+
+#===========
+#= Strings =
+#===========
+
+
+#========
+#= Misc =
+#========
+
+#== Creative Tabs ==
+
+
+#=========
+#= WAILA =
+#=========
+
+#== Tooltips ==
+
+
+#== Options ==

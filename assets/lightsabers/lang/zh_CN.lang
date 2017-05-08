@@ -1,0 +1,187 @@
+------Items------
+item.lightsaber_circuitry.name=Lightsaber Circuitry
+item.compressed_focusing_crystal.name=Compressed Focusing Crystal
+item.cracked_kyber_crystal.name=Cracked Kyber Crystal
+item.inverting_focusing_crystal.name=Inverting Focusing Crystal
+item.fine_cut_focusing_crystal.name=Fine-Cut Focusing Crystal
+
+item.lightsaber_blade_emitter.name=Lightsaber Blade Emitter
+item.lightsaber_switch_module.name=Lightsaber Switch Module
+item.lightsaber_grip.name=Lightsaber Grip
+item.lightsaber_pommel.name=Lightsaber Pommel
+
+item.lightsaber.name=Lightsaber
+item.double_lightsaber.name=Double Lightsaber
+
+
+------Blocks------
+tile.lightsaber_crystal.name=%s Lightsaber Crystal
+tile.lightsaber_forge_light.name=Lightsaber Forge
+tile.lightsaber_forge_dark.name=Lightsaber Forge
+tile.sith_coffin.name=Sith Sarcophagus
+tile.sith_stone_coffin.name=Stone Sith Coffin
+tile.jedi_holocron.name=Jedi Holocron
+tile.sith_holocron.name=Sith Holocron
+
+tile.light_forcestone.default.name=Light Forcestone
+tile.light_forcestone.inscribed.name=Light Inscribed Forcestone
+tile.light_forcestone.pillar.name=Light Forcestone Pillar
+tile.light_activated_forcestone_pillar.name=Light Activated Forcestone Pillar
+tile.light_forcestone_stairs.name=Light Forcestone Stairs
+tile.dark_forcestone.default.name=Dark Forcestone
+tile.dark_forcestone.inscribed.name=Dark Inscribed Forcestone
+tile.dark_forcestone.pillar.name=Dark Forcestone Pillar
+tile.dark_activated_forcestone_pillar.name=Dark Activated Forcestone Pillar
+tile.dark_forcestone_stairs.name=Dark Forcestone Stairs
+tile.forcestone_slab.light.name=Light Forcestone Slab
+tile.forcestone_slab.dark.name=Dark Forcestone Slab
+
+
+------Entities------
+entity.al_SithGhost.name=Sith Ghost
+
+
+------GUI------
+gui.lightsaber_forge=Lightsaber Forge
+gui.lightsaber_forge.too_short=Too short!
+gui.sith_coffin=Sith Coffin
+gui.forcePowers=Force Powers
+gui.forcePowers.xp=Force Xp: %s
+gui.forcePowers.basePower=Base Power: %s
+recipe.lightsaber_forge=Lightsaber Forge
+
+
+------Tooltip------
+lightsaber.color=Color:
+lightsaber.colors=Colors:
+lightsaber.hilt=Hilt:
+lightsaber.focusingCrystals=Focusing Crystals:
+lightsaber.upper=Upper:
+lightsaber.lower=Lower:
+
+
+------Keys------
+key.selectPower=Select Force Power
+
+
+------Effects------
+statusEffect.fortify=Fortification
+statusEffect.stun=Stun
+statusEffect.drain=Drainage
+statusEffect.lightning=Force Lightning
+statusEffect.choke=Suffocation
+statusEffect.stealth=Stealth
+statusEffect.speed=Speed
+statusEffect.gaze=Gaze
+statusEffect.meditation=Battle Meditation
+statusEffect.resist=Energy Resistance
+
+
+------Colors------
+color.0=Deep Blue
+color.1=Medium Blue
+color.2=Light Blue
+color.3=Arctic Blue
+color.4=White
+color.5=Indigo
+color.6=Purple
+color.7=Magenta
+color.8=Pink
+color.9=Red
+color.10=Blood Orange
+color.11=Amber
+color.12=Yellow
+color.13=Gold
+color.14=Lime Green
+color.15=Green
+color.16=Mint Green
+color.17=Cyan
+
+
+------Force Powers------
+forcepower.unlocked=Unlocked
+forcepower.xpLeft=%s Force Xp to Unlock
+forcepower.cost=Cost: %s Force Xp
+forcepower.basePowerReq=%s Base Power Unlock
+forcepower.basePower=%s Base Power
+forcepower.forcePower=%s Force Power
+forcepower.forceRegen=%s FP/s Regen
+forcepower.perUse=%s Force Power/Use
+forcepower.perSecond=%s Force Power/s
+forcepower.list=and
+
+forcepower.stat.to=%1$s to %2$s
+forcepower.stat.from=%1$s from %2$s
+forcepower.stat.against=%1$s against %2$s
+forcepower.stat.divide=%1$s / %2$s
+forcepower.stat.multiply=%1$s x%2$s
+forcepower.stat.effect=%1$ss -> %2$s
+forcepower.stat.effect2=%1$s -> %2$s
+forcepower.stat.absorb=Absorb %1$s from %2$s
+forcepower.stat.highlight=Highlights %1$s %2$ss
+forcepower.stat.unit.health=HP
+forcepower.stat.unit.damage=DMG
+forcepower.stat.unit.attackDamage=Attack DMG
+forcepower.stat.unit.forceDamage=Force DMG
+forcepower.stat.unit.energyDamage=Lightsaber DMG
+forcepower.stat.unit.absorption=Absorption
+forcepower.stat.unit.speed=Speed
+forcepower.stat.unit.invisibility=Invisibility
+forcepower.stat.unit.impactRadius=Impact Radius
+forcepower.stat.unit.knockback=Knockback
+forcepower.stat.target.caster=Caster
+forcepower.stat.target.target=Target
+forcepower.stat.target.allies=Allies
+forcepower.stat.target.enemies=Enemies
+forcepower.stat.target.mobs=Mobs
+forcepower.stat.target.players=Players
+forcepower.stat.target.invisible=Invisibles
+
+forcepower.name.forceSensitivity=Force Sensitivity
+forcepower.name.lightSide=Jedi Teaching
+forcepower.name.darkSide=Sith Philosophy
+forcepower.name.neutral=Balanced Thoughts
+forcepower.name.level1=Force Novice
+forcepower.name.level2=Force Apprentice
+forcepower.name.level3=Force Experienced
+forcepower.name.level4=Force Expert
+forcepower.name.level5=Force Master
+forcepower.name.heal1=Heal
+forcepower.name.heal2=Adv. Heal
+forcepower.name.heal3=Master Heal
+forcepower.name.fortify1=Force Fortify
+forcepower.name.fortify2=Adv. Force Fortify
+forcepower.name.fortify3=Master Force Fortify
+forcepower.name.stun1=Force Stun
+forcepower.name.stun2=Force Stasis
+forcepower.name.stun3=Force Stasis Field
+forcepower.name.drain1=Drain Life
+forcepower.name.drain2=Consume Life
+forcepower.name.drain3=Death Field
+forcepower.name.lightning1=Shock
+forcepower.name.lightning2=Force Lightning
+forcepower.name.lightning3=Force Maelstrom
+forcepower.name.wound1=Wound
+forcepower.name.wound2=Choke
+forcepower.name.wound3=Torture
+forcepower.name.stealth=Force Stealth
+forcepower.name.speed=Force Speed
+forcepower.name.sight1=Force Sight
+forcepower.name.sight2=Force Gaze
+forcepower.name.sight3=Force Vision
+forcepower.name.meditation1=Battle Meditation
+forcepower.name.meditation2=Adv. Battle Meditation
+forcepower.name.meditation3=Master Battle Meditation
+forcepower.name.throw1=Blade Throw
+forcepower.name.throw2=Adv. Blade Throw
+forcepower.name.resist1=Energy Resist
+forcepower.name.resist2=Adv. Energy Resist
+forcepower.name.resist3=Master Energy Resist
+forcepower.name.push1=Force Push
+forcepower.name.push2=Force Gust
+forcepower.name.push3=Force Wave
+
+
+----- Death -----
+death.attack.lightsaber=%1$s was struck down by %2$s
+death.attack.forceLightning=%1$s was electrocuted by %2$s

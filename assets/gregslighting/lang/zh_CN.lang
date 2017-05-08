@@ -1,0 +1,11 @@
+tile.gcewing_lighting:carbideFloodlight.name=Carbide Floodlight
+tile.gcewing_lighting:floodlight.name=Floodlight
+tile.gcewing_lighting:ic2ElectricFloodlight.name=IC2 Electric Floodlight
+tile.gcewing_lighting:ic2ElectricFloodlightOn.name=IC2 Electric Floodlight
+item.gcewing_lighting:calciumCarbide.name=Calcium Carbide
+item.gcewing_lighting:bonemealAndCharcoal.name=Bonemeal-Charcoal Mixture
+item.gcewing_lighting:gasNozzle.name=Gas Nozzle
+item.gcewing_lighting:glowingIngot.name=Glowing Alloy Ingot
+item.gcewing_lighting:glowstoneBulb.name=IC2 Floodlight Bulb
+item.gcewing_lighting:ic2FilamentAssembly.name=IC2 Filament Assembly
+itemGroup.gcewing_lighting:tab=Greg's Lighting

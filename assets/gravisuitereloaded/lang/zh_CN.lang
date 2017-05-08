@@ -1,0 +1,24 @@
+# Tools
+item.ItemToolTheThingamabob.name=Vajra
+item.ItemToolBigMiningDrill.name=Big Mining Drill
+item.ItemToolBigDiamondDrill.name=Big Diamond Drill
+item.ItemToolBigIridiumDrill.name=Big Iridium Drill
+item.ItemToolMOAT=MOAT
+item.ItemToolTheChopper.name=The Chopper
+
+# Weapons
+item.ItemWeaponQuantumSaber.name=Quantum Saber
+
+# Armor
+item.ItemArmorLappack.name=Lappack
+item.ItemArmorQuantumLappack.name=Quantum Lappack
+item.ItemArmorAdvancedJetpack.name=Advanced Jetpack
+item.ItemArmorAdvancedNanoChestplate.name=Advanced Nano Chestplate
+
+# Misc
+item.ItemMiscQuantumCircuit.name=Quantum Circuit
+
+# Tooltips
+tooltip.tool.PowerTier=Power Tier:
+tooltip.tool.VajraDescription=Right click to silk touch a block
+tooltip.tool.QuantumSaberDescription=Deals void damage when active
